@@ -1,4 +1,4 @@
-https://orishko-py.github.io/react-weather-app/
+Demo available at https://orishko-py.github.io/react-weather-app/
 
 **Description**:
 This is a simple React application using OpenWeatherMap API. It requests user location and displays current weather and weather forecast at current location and returns weather at any location queried by the user. 
